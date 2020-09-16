@@ -14,8 +14,8 @@
 #define TEMPO_ENTRE_CHECAGEM_DE_MENSAGENS   50 //ms
  
 /* Token de acesso Telegram */
-#define token_acesso_telegram "1358418486:AAG3Yu45PiAth4S5nSoufuUdKAmF6op7Xo8"
-#define chat_id_telegram "934722418"
+#define token_acesso_telegram "1358418486:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa"
+#define chat_id_telegram "111112222333"
  
 /* Definições das mensagens possíveis de serem recebidas */
 #define CMD_CLIMA               "Temperatura"
